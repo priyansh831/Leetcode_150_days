@@ -1,0 +1,26 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class SquareOfSortedArray {
+    
+        public static int[] sortedSquares(int[] nums) {
+        for(int i=0;i<nums.length;i++){
+            nums[i]=nums[i]*nums[i];
+        }
+        Arrays.sort(nums);
+        return nums;
+    }
+        public static void main(String[] args){
+        Scanner sc= new Scanner(System.in); 
+    int n= sc.nextInt();
+    int [] arr= new int[n];
+    for(int i=0;i<n;i++){
+        arr[i]=sc.nextInt();
+
+    }
+   int ans[]=sortedSquares(arr);
+   for(int num:ans){
+    System.out.print(num+",");
+   }
+    }
+}

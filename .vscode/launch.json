@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MergeSortedArray",
+            "request": "launch",
+            "mainClass": "MergeSortedArray",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "SquareOfSortedArray",
+            "request": "launch",
+            "mainClass": "SquareOfSortedArray",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeros",
+            "request": "launch",
+            "mainClass": "MoveZeros",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "majorityElement",
+            "request": "launch",
+            "mainClass": "majorityElement",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "MajorityElement",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeToBuySell",
+            "request": "launch",
+            "mainClass": "BestTimeToBuySell",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "Twosum",
+            "request": "launch",
+            "mainClass": "Twosum",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "Twosum",
+            "request": "launch",
+            "mainClass": "Twosum",
+            "projectName": "DSA-150 Days Challange_f6fac5d3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
