@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Insertion_of_2_Array",
+            "request": "launch",
+            "mainClass": "Day2.Insertion_of_2_Array",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "Disapeared_num_Optimized",
+            "request": "launch",
+            "mainClass": "Disapeared_num_Optimized",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "Disapeared_num",
+            "request": "launch",
+            "mainClass": "Disapeared_num",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "Remove_Duplicat2",
+            "request": "launch",
+            "mainClass": "Day2.Remove_Duplicat2",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "Remove_Duplicate",
+            "request": "launch",
+            "mainClass": "Day2.Remove_Duplicate",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "Remove_Duplicate",
+            "request": "launch",
+            "mainClass": "Remove_Duplicate",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
             "name": "MergeSortedArray",
             "request": "launch",
             "mainClass": "MergeSortedArray",
