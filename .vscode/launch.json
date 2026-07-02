@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PivoteIndex_Optimized",
+            "request": "launch",
+            "mainClass": "Day2.PivoteIndex_Optimized",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
+            "name": "PivoteIndex",
+            "request": "launch",
+            "mainClass": "Day2.PivoteIndex",
+            "projectName": "DSA_150_Days_Challange_5d53da25"
+        },
+        {
+            "type": "java",
             "name": "Insertion_of_2_Array",
             "request": "launch",
             "mainClass": "Day2.Insertion_of_2_Array",
